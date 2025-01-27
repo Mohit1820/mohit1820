@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Mohit Patil !!</h1>
 <h3 align="center">ABAP Developer</h3>
 
-<p align="left"> <img src="https://media.licdn.com/dms/image/v2/D5603AQEDyyS5-3AE0w/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1720117501723?e=1743638400&v=beta&t=Rb3cPbuy02Q5ndaxheLvcWOhJpfy7WR-8KYoRqxmX34" alt="Mohit1820" /> </p>
+
 <p><img align="right" width=400 src="https://media.licdn.com/dms/image/v2/D5603AQEDyyS5-3AE0w/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1720117501723?e=1743638400&v=beta&t=Rb3cPbuy02Q5ndaxheLvcWOhJpfy7WR-8KYoRqxmX34" alt="Mohit1820" /></p>
 
 
