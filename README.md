@@ -11,7 +11,7 @@
 
 - 🌱 Exploring **UI5, OData, CDS, OOABAP**
 
-- 📫 How to reach me **erswapnilmore@gmail.com**
+- 📫 How to reach me **patil.mohit356@gmail.com**
 <br><br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
