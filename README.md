@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working at SVKM Central office , Mumbai as a  **SAP ABAP Developer**
 
-- 🌱 Exploring **UI5, OData, CDS, OOABAP**
+- 🌱 Exploring **UI5, OData, CDS, Enhancements**
 
 - 📫 How to reach me **patil.mohit356@gmail.com**
 <br><br>
