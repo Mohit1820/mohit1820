@@ -1,4 +1,4 @@
-<img align ="center" src="https://github.com/swapnilm06/swapnilm06/blob/main/LINKED%20IN%20UPDATED.png"/>
+
 
 <h1 align="center">Hi 👋, I'm Mohit Patil !!</h1>
 <h3 align="center">ABAP Developer</h3>
@@ -17,7 +17,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/mohit-patil-6230b421a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/swapnil-more-80a8bb212/" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/profile/IamMohit18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="swapnilm7798" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sm_swapnil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sm_swapnil" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/Pmohit18/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sm_swapnil" height="30" width="40" /></a>
 </p>
 <br><
 <h3 align="left">Languages and Tools:</h3>
